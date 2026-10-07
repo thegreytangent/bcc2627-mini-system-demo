@@ -15,11 +15,14 @@
             <a href="?page=students">Students</a>
             <a href="?page=grades">Grades</a>
             <a href="?page=dashboard">Reports</a>
+             <div class="sidebar-note">
+        <small>OOP/IM Instructor: <br/> Sir Castellano</small>
+    </div>
         </aside>
 
         <main class="content">
-            <h2>Dashboard</h2>
-            <p> Welcome to the Student Management System.</p>
+            <h2>Dashboard Analytics</h2>
+            <p>The warm-up is over. Let the real games begin.</p>
         </main>
     </div>
 </body>
